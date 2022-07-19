@@ -1,0 +1,8 @@
+#!/bin/bash
+
+item name="fruits"
+quantity="10kg"
+date="%D"
+
+payment="cod or credit or debit"
+adress="xyz"
