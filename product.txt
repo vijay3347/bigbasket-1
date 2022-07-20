@@ -11,4 +11,6 @@ big father
 big mother
 banana
 mango
+fish
+egg
 
