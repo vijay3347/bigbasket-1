@@ -7,3 +7,6 @@ puja
 fula
 mother
 father
+big father 
+big mother
+
