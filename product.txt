@@ -1,13 +1,6 @@
-#!/bin/bash
-
-item name="fruits"
-quantity="10kg"
-date="%D"
-
-payment="cod or credit or debit"
-adress="xyz"
-end
-mango 
-banana
 akhil
-0000
+nikhil
+dulal
+nitai
+dipu
+
