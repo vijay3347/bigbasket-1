@@ -7,3 +7,5 @@ date="%D"
 payment="cod or credit or debit"
 adress="xyz"
 end
+mango 
+banana
