@@ -9,4 +9,6 @@ mother
 father
 big father 
 big mother
+fish
+egg
 
