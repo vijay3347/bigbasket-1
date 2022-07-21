@@ -7,10 +7,4 @@ puja
 fula
 mother
 father
-big father 
-big mother
-banana
-mango
-fish
-egg
-
+big father \\\\\
